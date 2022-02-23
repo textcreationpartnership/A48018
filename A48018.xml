@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a member of this House of Commons to his friend in the country</title>
+            <author>Member of the House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48018</idno>
+            <idno type="STC">Wing L1412</idno>
+            <idno type="STC">ESTC R223658</idno>
+            <idno type="EEBO-CITATION">99833946</idno>
+            <idno type="PROQUEST">99833946</idno>
+            <idno type="VID">38425</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48018)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38425)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1835:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a member of this House of Commons to his friend in the country</title>
+                  <author>Member of the House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([2]p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the John Rylands University Library of Manchester.</note>
+                  <note>Imperfect closely trimmed affecting text on verso.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Sovereign (1689-1694: William and Mary) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:38425:1" rendition="simple:additions"/>
+            <head>A LETTER FROM A MEMBER OF THE HOUSE OF COMMONS TO HIS FRIEND IN THE COUNTRY.</head>
+            <p>THe coffy houſe and ſtreet news, Sir, is but too true. Our new King continues intirely an Hollander ſtill, and means our purſes shall pay his gratitude to the States Gene<g ref="char:EOLhyphen"/>rall for the ſuceour which he ſqueeſed out of them.</p>
+            <p>That forward zeal for Proteſtant Religion with which the Hollanders cloathed their manifeſt, and thoſe deſintereſſed ſuccours which they gave in alms to England for the reeſ<g ref="char:EOLhyphen"/>tabliſſement of our liberty, have cheated many a man: but ſo much generoſity is not the vertue of merchants, who ſacrifice all to their intereſt. They have now declared that they never intended, the ships and Soldiers lent the Prince of Orange, for his entrepriſe, should be at their charge. They ſwell the account to 600000. <abbr>l.</abbr> and urge payment; we muſt allow the account as they give it in on their word, and may be ſure, intereſt and the hazard of their mony is not forgotten.</p>
+            <p>They have made the Prince of Orange their Factor, and he prowes zealously faithfull. He never ſerv'd them ſo well when he was their ſubject, as now we have made him our King. Hee ſet on his emiſſarys to tamper with all his wel affected members, before the motion was made to the houſe, and we proving a little slow in taking a motion ſo unexpec<g ref="char:EOLhyphen"/>ted and ſo unreſonable into conſideration, hee plyed us with meſſage after meſſage and at laſt got Mr. Hamden to under<g ref="char:EOLhyphen"/>take the buſineſs, and report the account to the houſe.</p>
+            <p>In the time of our paſt liberty you yourſelf can witnes how matters paſt in debates of free and lawfull Parliaments, and with what freedom every one deliverd his opinion of what he judge'd expedient or prejudiciall to the nation. But 'tis not now as it has been. We are no longer the ſame English<g ref="char:EOLhyphen"/>men, who knew not what fear meant as often as our rights and priviledges came in queſtion, and who were ſo unsha<g ref="char:EOLhyphen"/>kably unanimous againſt impoſitions contrary to the good and advantage of the Nation. We have got traitors among us who<g ref="char:EOLhyphen"/>ly devoted to their private intereſts and their new maſter, and theſe ſo fright the honeſt men with their threats, that we are grown ſpiritles in our own defenſe: fear ty's up our toungs, and with as much indignation as moſt of us heard a motion made to enrich forreigners with our mony, and ſend ſo vaſt a ſum out of the kingdom, no body durſt open his mouth. The houſe was ſtruck dumb, and forc't to adjourn the debate to the next day. I was one of the firſt that left the houſe, with the grief of a true Englishman ſtung to the quick with the unhappy condition to which wee are re<g ref="char:EOLhyphen"/>duc't *** and *** and ſome more who yet in their hearts preſerve a love for their loſt liberty, followd me home whe<g ref="char:EOLhyphen"/>re we found ourſelvs all of a mind, very deſirous to with<g ref="char:EOLhyphen"/>draw and avoyd at leaſt the reproach of being complices in what paſſes againſt our liberty and laws: but K Williane being it ſeems ſecure that thoſe, whom threats and promi<g ref="char:EOLhyphen"/>ſes have made ſure to him, will alwais carry it in Parlia<g ref="char:EOLhyphen"/>ment, will needs force us tarry in the houſe, and make it a punishable matter to take the air in the country. Tis for this reaſon his creatures have got an order to oblige abſent Members to return by a day prefixt: ſo that they are not content to impoſe upon us the yoke of a new tyranny, but bart us the poor comfort of not being witneſſes to what is don againſt us, and if we will not concurr with our con<g ref="char:EOLhyphen"/>ſent, make us in ſpite of our teeth concurr at leaſt by our preſence.</p>
+            <p>This is the reſult of our ſeducing hopes when we came into the houſe. They told us the Prince of Orange was the defender of our liberty, and deſired a Convention only to ſet due bounds to Royalty, ſecure Proteſtant Religion againſt the attempts of the Papiſts, and by excluding the groundles pretence of diſpenſing power for ever, reanimate the laws with a fresh vigour They told us that coming purely for the good of the English, he would truſt wholy to them, and ſend back his forreign ſoldiers to Holland, of whom he had no need, and that looking upon the reſtoration of our li<g ref="char:EOLhyphen"/>berty as his own work, he would bee the Protector and De<g ref="char:EOLhyphen"/>fender of it.</p>
+            <p>We believed him upon his word, and this credulyty will be the ſource of all our misfortunes. We know his falſe dealing, his boundles ambition, and inſatiable avarice. But what remedy? and what way left to avoyd taking his will for law, when againſt all law, he keeps his forreigners to authorize his doings, and enslave us at at pleaſure? ſo that till God put in a helping hand, and cure us of our blind<g ref="char:EOLhyphen"/>nes, he will do here, what ever he has a mind to.</p>
+            <p>His 600000 <abbr>l.</abbr> motion to gratify the Hollander will cer<g ref="char:EOLhyphen"/>tainly take. We know well enough there is no juſtice in it, we know the Hollanders declared in their manifeſt of 28. October paſt, that <hi>being advertiſed that the Kings of France and England hand made a league to pull down and quite deſ<g ref="char:EOLhyphen"/>troy their ſtate, they had conſented to the enterpriſe of the Prince of Orange, and reſolved to aſſiſt him with men and ships.</hi> They themſelvs therefore own that they acted for themſelvs and their own intereſt: and yet wee shall give them what they ask never the leſſ for that: Nay I expect the Mem<g ref="char:EOLhyphen"/>bers, who are of the Privy Counſell, shall be order'd to ca<g ref="char:EOLhyphen"/>ry his Majeſty the thankes of the houſe for his Goodneſſ and love to the English, in contenting himſelf with ſo ſmall a ſumme for the Hollanders. I ſee our Nation heretofore ſo jealous of its liberty accuſtom's it ſelf now to kiſſ the iron rod which ſcourges them; and thoſe who formerly would have layd down their lives to purchaſe a Common Wealth, drive furiously on for a deſpotik power ſuch as is known no where but in Aſia.</p>
+            <p>The truth is he carrys it yet with us, in appareance, with ſome moderation. What a noyſe did his releaſing chimny money make? and what trumpetting was there of his ten<g ref="char:EOLhyphen"/>derneſſ and liberality. Alas! he means we shall pay dear for that ſmall eaſe, and make up his petty loſſ with gain to the purpoſe Tis already inſinuated that the reduction of Ireland will coſt conſiderably, and a Warr at home and abroad ask a great deal of money; and theſe inſinuations will quickly become votes and Acts. Wee have no will of our own left; we are goeing to be over whelmed with tax upon tax; Our laws already undermined, are upon the point of falling and if God give us not courage enough to reſolve to maintain them, farewel to our eſtates and liberty for ever.</p>
+            <p>Wee might have taken warning by our Neighbours, and by what hee has done in Holland, certainly known what he would do in England Hee was born a ſubject to the Hollanders, yet found means to become their Maſter; and engroſſ a ſoveraign power over them, without the title. Beſo ted wee! could wee think it a likely matter, that hee would go leſſ when hee was King of England, and depend on Parlia<g ref="char:EOLhyphen"/>ments? And then wee find by experience that the ſame cour<g ref="char:EOLhyphen"/>ſes are taken here, which have enslaved Holland: thoſe choſen into all employments who are blindly devoted to him, and all others excluded; promiſes to corrupt one, and threats to frighten another, and the art of ridding thoſe out of the
+<pb facs="tcp:38425:2"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y whoſe free ſpirits will not bend, and ſweeping away all <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat reſiſt him.</p>
+            <p>Nothing can keep the vaſt projects of his irregular ambi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on within compaſſ. Religion is but an uſefull tool to work <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon the fools which will be cheated; and wee shall quickly <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee ours deſtroy'd by his hands, who in his Letters, his De<g ref="char:EOLhyphen"/>clarations and even in his flags has declared him ſelf the Pro<g ref="char:EOLhyphen"/>ector of it. The oath of Supremacy which acknowledgd Kings <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o bee the ſupreme Governors of the English Church, is al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eady gone; Ceremonys and the Muſic in Whitehall Chappel, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thing in uſe in our Churches, ſent packing; Prayers chan<g ref="char:EOLhyphen"/>ged, very ancient Rites abolisht: and all this upon pretext of uniteing Epiſcopacy and Presbytery, but in reality to bring the Epiſcopall party over to the Presbyterians. Not that hee troubles him ſelf much with either Religion: but the fidelity of Bishops to powers lawfully eſtablisht by God, is not for the turn of uſurpers; Calviniſt or Independent Principles do much better when one has a mind to fly at all; Principles by the which every one may beleive as is moſt for his purpo<g ref="char:EOLhyphen"/>ſe, break oaths made to lawfull Princes without ſcrupule, acknowledge no ſubordination whither in Church or ſtate. This ſuits a great deal better both with his own preſent in<g ref="char:EOLhyphen"/>tereſt, and that of Proteſtant Princes, of whoſe aſſiſtance hee thinks, hee may have occaſion. Let that intereſt change, hee will change too, and follow it wherever it go, whether to Head or Member of the Church, and Epiſcopall, Pres<g ref="char:EOLunhyphen"/>byterian, Independent or Quaking Member, Stateholder in Holland or King in England, but Tirant by whatever <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or title dignify'd.</p>
+            <p>The frights in to which our abdicating King and his po<g ref="char:EOLhyphen"/>pery put us were nothing to this Tis-true hee would need employ Papiſts, and diſpenſe with conſcience laws But for deſtroying the Religion eſtablisht by law in England, hee neither had the will, nor the means; a lawfull Parliament without which hee could do nothing, would alwais have been in a condition to oppoſe, and redreſſ what bad Coun<g ref="char:EOLhyphen"/>ſell might ſuggeſt amiſſ. That releif is now out of do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es: The Parliament is a pack of his creatures slavishly obedient to the pleaſure of our new King and thoſe who in their hearts preſerve the love of their Religion and laws, ſo cruelly <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ken, are bridled by the fear of a Prince, who ſtands <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon diſpatching a man who oppoſes him, without <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ado out of the way, and has a forreign army at hand, ready to execute whatever order he gives them.</p>
+            <p>In a word our Laws are already overturned; our Religion totters, and will not long ſtand; and to this ſtate of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lence our credulous weakneſſ has reduc't us, tis time I think to wake out of our ſwound, to acknowledge the hand of God upon us for deſerting our lawfull Prince, and return to him. Hee who ſets up the ſtandard of liberty any where is ſure of crouds of helping hands flocking in to him from all parts; and the fidelity which wee ow to the true inte<g ref="char:EOLhyphen"/>reſts of the Nation cannot fail to be crowned with ſucceſſ, and immortall glory. I remain, &amp;c.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
